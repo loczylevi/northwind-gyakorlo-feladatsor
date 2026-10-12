@@ -1,4 +1,3 @@
-# northwind-gyakorlo-feladatsor
 
 # Northwind – gyakorló feladatsor
 
@@ -75,7 +74,3 @@ A `termek` tábla legyen a **szülőtábla**, a `vetitesek` tábla pedig a **gye
 
 ---
 
-## Gyakorlási javaslat
-
-1. Először próbáld meg önállóan megoldani a feladatokat.
-2. Minden lekérdezést futtass le php
